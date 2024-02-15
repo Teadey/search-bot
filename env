@@ -1,0 +1,6 @@
+ADMIN_LIST=768602428
+BOT_TOKEN=6358684382:AAEzosKjN58KZH8SM10dw892GuA707KOtYc
+DATABASE_URL=postgresql+asyncpg://supersus:3228@localhost/ggbot
+USE_REDIS=true
+REDIS_PREFIX=ggbot
+password=link55
