@@ -1,0 +1,29 @@
+admin-start-text = 
+user-start-text = 
+admin-button-back = 
+admin-button-yes = 
+admin-button-no = 
+admin-button-cancel = 
+admin-button-close = 
+
+# User list
+admin-users-list = 
+admin-button-list-users = 
+admin-error-users-notfound = 
+admin-users-export = 
+
+# Admin list
+admin-admins-list = 
+admin-error-admins-notfound = 
+admin-button-list-admins = 
+admin-button-add-admin = 
+admin-button-del-admin = 
+admin-show-admin = 
+admin-show-sudo = 
+admin-delete-text = 
+admin-add-admin-request = 
+admin-error-user-id-is-invalid =
+admin-error-is-not-user-id =
+admin-error-already-admin = 
+admin-add-admin-sudo-request = 
+admin-add-admin-confirm = 
